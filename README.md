@@ -1,6 +1,8 @@
 # Système de Gestion d'Hôtel
 
-Ce projet a pour objectif de développer une application API web en C# pour la gestion d'un hôtel, couvrant divers aspects comme la réservation de chambres, la gestion des clients, le personnel et les services de l'hôtel. Ce projet servira de notation finale pour les étudiants de 4ème année d'école d'ingénieur en informatique, dans le cadre du module "architecture".
+Ce projet a pour objectif de développer une application API web en C# pour la gestion d'un hôtel, couvrant divers aspects comme la réservation de chambres, la gestion des clients, le personnel et les services de l'hôtel.
+
+L'objectif est d'appliquer les concepts de programmation orientée objet, les patterns d'architecture et de conception, et de développer une application fonctionnelle et sécurisée.
 
 ## Fonctionnalités Attendues
 
