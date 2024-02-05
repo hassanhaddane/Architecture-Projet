@@ -18,7 +18,7 @@ L'objectif est d'appliquer les concepts de programmation orientée objet, les pa
   - **Annulation de réservation** : Annuler une réservation pour un client, si l'annulation à lieu moins de 48 heures avant la date de réservation, la receptionniste peut choisir de rembourser ou non le client, malgè la règle de base.
 - **Gestion de l'arrivée** : Noter l'occupation de la chambre et gérer les paiements non effectués.
 - **Gestion du départ** : Marquer la chambre pour nettoyage et gérer les paiements restants.
-- **Envoi d'email post-séjour** : Envoyer un email type "donnez votre avis" après le départ du client.
+- **Envoi d'email post-séjour** : Optionel - Envoyer un email type "donnez votre avis" après le départ du client.
 
 ### Personnel de Ménage
 - **Liste des chambres à nettoyer** : Accéder à la liste des chambres à nettoyer, avec priorisation (une chambre déjà nettoyé et non occupée depuis n'est pas à nettoyer).
