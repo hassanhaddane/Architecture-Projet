@@ -9,6 +9,10 @@ L'objectif est d'appliquer les concepts de programmation orientée objet, les pa
 ### Client
 - **Liste des chambres disponibles** : Obtenir la liste des chambres disponibles à une plage de dates donnée.
 - **Réservation de chambre** : Réserver une chambre sur cette plage de date, si elle est disponible, avec possibilité de paiement (numéro de carte bleue, appel à un faux service de paiement).
+  - Une chambre a un tarif
+  - Une chambre peux accueillir un nombre de personnes
+  - Une chambre a un type (simple, double, suite...), qui définit son tarif
+  - Un client peut réserver plusieurs chambres selon leur nombre
 - **Annulation de réservation** : Annuler sa réservation avec gestion de remboursement sous conditions.
 - **Notification pré-séjour** : Optionnel - Recevoir une notification (email/SMS) un jour avant la date du séjour.
 
