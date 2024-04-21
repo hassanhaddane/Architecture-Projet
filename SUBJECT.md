@@ -1,6 +1,3 @@
-# Hassan HADDANE & LALEYE Sethy (L1 C3)
-
-
 # Système de Gestion d'Hôtel
 
 Ce projet a pour objectif de développer une application API web en C# pour la gestion d'un hôtel, couvrant divers aspects comme la réservation de chambres, la gestion des clients, le personnel et les services de l'hôtel.

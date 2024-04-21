@@ -1,0 +1,62 @@
+﻿GestionHotel.Apis
+- Connected Services
+- Dépendances 
+- Properties
+- Controllers 
+--- AuthentificationManagement
+---- AuthentificationController.cs
+--- BookingManagement
+---- BookingsController.cs
+--- CustomerManagement
+---- CustomerController.cs
+--- EmployeeManagement
+---- EmployeesController.cs
+--- RoomManagement
+---- RoomsController.cs
+- Data 
+--- ModelConfiguration
+---- BookingConfiguration.cs
+---- CustomerConfiguration.cs
+---- EmployeeConfiguration.cs
+---- RoomConfiguration.cs
+--- HotelDbContext.cs
+- Domain 
+--- Authentification 
+---- Authentification.cs
+--- Bookings
+---- Booking.cs
+---- IBookingService.cs
+--- Customers
+---- Customer.cs
+---- ICustomerService.cs
+--- Employees
+---- Employee.cs
+---- IEmployeeService.cs
+--- Rooms
+---- IRoomService.cs
+---- Room.cs
+- Filters 
+--- SecurityRequirementsOperationFilter.cs
+- HTTPRequests
+--- GestionHotel.http
+- Migrations
+--- ...
+- Persistence 
+--- Repositories
+---- IBookingRepository.cs
+---- ICustomerRepository.cs
+---- IEmployeeRepository.cs
+---- IRoomRepository.cs 
+- Services
+--- Booking
+---- BookingService.cs
+--- Customer
+---- CustomerService.cs
+--- Employee
+---- EmployeeService.cs
+--- Room
+---- RoomService.cs 
+- Utilities 
+appsettings.Development.json
+appsettings.json
+Program.cs

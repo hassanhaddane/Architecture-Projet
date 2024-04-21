@@ -1,0 +1,7 @@
+1. La route GET '/api/bookings/id' renvoie un 404 error notfound alors que les autres routes renvoient un tableau vide 
+
+2. La route POST '/api/customers' ne fonctionne pas 
+
+3. La route GET '/api/employees/id' ne fonctionne pas 
+
+4. La route GET '/api/employees/role/role' ne fonctionne pas 
